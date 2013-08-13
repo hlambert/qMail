@@ -1,4 +1,4 @@
-email-downloader
+qMail
 ================
 
-Download and store emails for further analysis
+Tool for downloading, storing and analysing emails
